@@ -4,7 +4,6 @@
 ** File description:
 ** test_lib
 */
-
 #include "my.h"
 
 #include <criterion/criterion.h>
