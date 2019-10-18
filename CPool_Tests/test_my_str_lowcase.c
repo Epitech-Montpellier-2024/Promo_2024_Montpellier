@@ -1,6 +1,7 @@
 #include "my.h"
-
 #include <criterion/criterion.h>
+
+char    *my_strlowcase(char *str);
 
 Test(my_str_lowcase, should_return_empty_string)
 {
