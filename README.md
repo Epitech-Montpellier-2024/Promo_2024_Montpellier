@@ -2,4 +2,4 @@
 Promo 2024 Montpellier Repo
 
 ## Current modules
-- CPool_Tests
+- CPool_WorkshopLib_Tests
